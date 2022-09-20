@@ -1,26 +1,35 @@
-h1 {
+.title {
     color:black;
+    font-size: large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
+
 }
-h3 {
-    color:black;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: left;
+.image {
+    height: auto;
+    width: 250px;
 }
-p {
+.description {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: left;
-    font-size: small;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-ul,
-ol {color: black;
-    font-family: 'Times New Roman', Times, serif;
+.information {
+    color: black;
     text-align: left;
-    font-size: smaller;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-img {
-    height:auto;
-    width: 500px;
+.ingredients {
+    color: black;
+    text-align: left;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.steps {
+    color: black;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
 }
