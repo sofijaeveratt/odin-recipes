@@ -1,2 +1,2 @@
 # odin-recipes
-A lst of 3 recipes.
+A list of 3 recipes.

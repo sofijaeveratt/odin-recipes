@@ -8,6 +8,7 @@
 .image {
     height: auto;
     width: 250px;
+    text-align: center;
 }
 .description {
     color: black;
