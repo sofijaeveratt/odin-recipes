@@ -1,8 +1,8 @@
 .title {
     color:black;
     font-size: large;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align:center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;   
+text-align:center;
 
 }
 .image {
@@ -11,16 +11,16 @@
     text-align: center;
 }
 .description {
-    color: black;
+    color:brown;
     text-align: center;
     font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .information {
     color: black;
     text-align: left;
     font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .ingredients {
     color: black;
@@ -34,3 +34,4 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
 }
+body {background-color: dimgrey;}
