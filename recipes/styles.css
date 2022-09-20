@@ -1,17 +1,17 @@
 .title {
     color:black;
-    font-size: large;
-font-family: Verdana, Geneva, Tahoma, sans-serif;   
-text-align:center;
+    font-size:larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    text-align:center;
 
 }
 .image {
+    text-align: center;
     width: auto;
     height: 250px;
-    text-align: center;
 }
 .description {
-    color:brown;
+    color:darkblue;
     text-align: center;
     font-size: medium;
     font-family:Georgia, 'Times New Roman', Times, serif;
